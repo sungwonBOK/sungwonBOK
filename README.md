@@ -5,11 +5,11 @@
 ## Featured Projects
 
 ### 🏠 RestructuringHome - 직접 설계하는 우리 집 공간
-MVP 단계
+
 _대표 GIF 또는 이미지 추가 예정_
 
 React Native / Expo / TypeScript / Supabase
-
+(MVP 단계)
 사용자의 방 평면도 및 가구 배치후 AI 배치 추천을 통해 
 원하는 스타일(효율적st, 모던st 등)의 가구 / 방 배치도를 확인할 수 있는 모바일 앱입니다.
 
