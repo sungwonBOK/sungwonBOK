@@ -9,7 +9,7 @@
 
 ### 🏠 RestructuringHome - 직접 설계하는 우리 집 공간
 
-_대표 GIF 또는 이미지 추가 예정_
+
 
 React Native / Expo / TypeScript / Supabase
 
@@ -24,11 +24,11 @@ React Native / Expo / TypeScript / Supabase
 - 담당: 방 평면도 편집 경험과 가구 편집 기능 구현
 
 → [GitHub Repository](https://github.com/sungwonBOK/ResturucturingHome)  
-→ Demo Video (추가 예정)
+
 
 ### ⚽ Futsal Brawl - 3인칭 격투 풋살 게임
 
-_대표 GIF 또는 이미지 추가 예정_
+
 
 Unity / C# / Multiplayer
 
